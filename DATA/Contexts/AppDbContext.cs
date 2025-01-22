@@ -26,22 +26,22 @@ namespace DATA.Contexts
             builder.Entity<IdentityRole>().HasData(
                 
 
-                new IdentityRole { Id= "a599db25-d050-4126-a00e-df56f0b6a05a" ,Name="Admin",NormalizedName="ADMIN" },
+                new IdentityRole { Id= "7d6ec704-60f2-44bc-9485-e5b2516ee13a", Name="Admin",NormalizedName="ADMIN" },
                 new IdentityRole{ Id= "bab987a2-4188-4b33-b47f-d2efaa11e7d9", Name="User" ,NormalizedName="USER"}
                 );
 
 
             IdentityUser admin = new()
             {
-                Id = "f890173b-f88f-4c04-98d7-81e0b9244131",
+                Id = "67bfb8c6-031c-4a06-aaf0-526592f96798",
                 UserName="admin",
                 NormalizedUserName="ADMIN"
             };
 
             PasswordHasher<IdentityUser> hasher=new PasswordHasher<IdentityUser>();
-            admin.PasswordHash = hasher.HashPassword(admin, "admin123");
+            admin.PasswordHash = hasher.HashPassword(admin, "admin1234");
             builder.Entity<IdentityUser>().HasData(admin);
-            builder.Entity<IdentityUserRole<string>>().HasData(new IdentityUserRole<string> { UserId = admin.Id, RoleId = "a599db25-d050-4126-a00e-df56f0b6a05a" });
+            builder.Entity<IdentityUserRole<string>>().HasData(new IdentityUserRole<string> { UserId = admin.Id, RoleId = "7d6ec704-60f2-44bc-9485-e5b2516ee13a" });
       
                 
             base.OnModelCreating(builder);

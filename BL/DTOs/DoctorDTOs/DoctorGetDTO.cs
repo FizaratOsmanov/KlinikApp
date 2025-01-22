@@ -13,9 +13,9 @@ public record DoctorGetDTO
     public int Id { get; set; }
     public string ImagePath { get; set; }
 
-    public string Name { get; set; }
+    public required string Name { get; set; }
 
-    public int DepartmentTitle { get; set; }
+    public int DepartmentId { get; set; }
 }
 
 
@@ -29,7 +29,7 @@ public class DoctorGetDTOValidations : AbstractValidator<DoctorGetDTO>
         RuleFor(x => x.ImagePath)
             .Cascade(CascadeMode.Stop)
             .NotNull().WithMessage("Image cannot be null!");
-        RuleFor(e => e.DepartmentTitle)
+        RuleFor(e => e.DepartmentId)
             .NotEmpty().WithMessage("Department title cannot be empty!");
             
     }

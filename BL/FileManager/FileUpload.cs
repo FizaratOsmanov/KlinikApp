@@ -1,29 +1,24 @@
 ﻿using Microsoft.AspNetCore.Http;
-using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
+namespace BL.FileManager
+{
+    public static class FileUpload
+    {
+        public static async Task<string> SaveAsync(this IFormFile file, string folder)
+        {
+            string uploadPath = Path.Combine(Path.GetFullPath("wwwroot"), "Images", folder);
 
-//namespace BL.FileManager
-//{
-//    public static class FileUpload
-//    {
-//        public static async Task<string> SaveAsync(this IFormFile formFile, string folder)
-//        {
-//            string path = Path.Combine(Path.GetFullPath("wwwroot"), "Images", folder);
-//            if (!Directory.Exists(path)) Directory.CreateDirectory(path);
+            if (!Directory.Exists(uploadPath)) Directory.CreateDirectory(uploadPath);
 
-//            string filename = Guid.NewGuid().ToString() + formFile.FileName;
+            string filename = Guid.NewGuid().ToString() + file.FileName;
 
-//            using (FileStream fs = new(Path.Combine(path,filename), FileMode.Create))
-//            {
-//                await fs.CopyToAsync(fs);
-//            }
-//            return filename;
-//        }
+            using (FileStream fs = new(Path.Combine(uploadPath, filename), FileMode.Create))
+            {
+                await file.CopyToAsync(fs);
+            }
 
+            return filename;
+        }
 
-//        public static bool CheckType(this IFormFile formFile, string required) => formFile.ContentType.Contains(required);
-//    }
-//}
+        public static bool CheckType(this IFormFile formFile, string required) => formFile.ContentType.Contains(required);
+    }
+}

@@ -22,7 +22,7 @@ public class DoctorPostDTOValidations : AbstractValidator<DoctorPostDTO>
         RuleFor(x => x.Image)
             .Cascade(CascadeMode.Stop)
             .NotNull().WithMessage("Image cannot be null!")
-            .Must(x => x.Length <= 2 * 1024 * 1024).WithMessage("File size must be less than 2 MB!");            
+            .Must(x => x.Length <= 2 * 1024 * 1024).WithMessage("File size must be less than 2 MB!");
         RuleFor(e => e.DepartmentId)
             .NotEmpty().WithMessage("Department id cannot be empty!")
             .GreaterThan(0).WithMessage("Department id must be a natural number!");

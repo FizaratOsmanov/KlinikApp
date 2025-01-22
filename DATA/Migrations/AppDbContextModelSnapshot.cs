@@ -114,7 +114,7 @@ namespace DATA.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "a599db25-d050-4126-a00e-df56f0b6a05a",
+                            Id = "7d6ec704-60f2-44bc-9485-e5b2516ee13a",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
@@ -218,15 +218,15 @@ namespace DATA.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "f890173b-f88f-4c04-98d7-81e0b9244131",
+                            Id = "67bfb8c6-031c-4a06-aaf0-526592f96798",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "7c10212e-4d92-4f75-b2b9-5194d499afb2",
+                            ConcurrencyStamp = "0c2983ba-9df9-415b-96dc-0bca4113de09",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAIAAYagAAAAEF/RRg6E23/1Q3lbvbdRlMvfcSSe1uyJK+Z6dvJB7xkOTlc5xQiFMENtQbDIXcFS2A==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEL7kCsfPkccvYoAZUxMr+pKj85EdrzrMlvrx8Yr/heLGJ0OmPRmGMLLeef+h2b0i0w==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "60f650c7-81f5-4e46-bfe5-c881daff8576",
+                            SecurityStamp = "e16af383-afef-466c-850d-0e66704c5433",
                             TwoFactorEnabled = false,
                             UserName = "admin"
                         });
@@ -296,8 +296,8 @@ namespace DATA.Migrations
                     b.HasData(
                         new
                         {
-                            UserId = "f890173b-f88f-4c04-98d7-81e0b9244131",
-                            RoleId = "a599db25-d050-4126-a00e-df56f0b6a05a"
+                            UserId = "67bfb8c6-031c-4a06-aaf0-526592f96798",
+                            RoleId = "7d6ec704-60f2-44bc-9485-e5b2516ee13a"
                         });
                 });
 

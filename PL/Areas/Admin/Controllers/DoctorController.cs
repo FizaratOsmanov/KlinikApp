@@ -53,10 +53,23 @@ namespace PL.Areas.Admin.Controllers
                 return View(dto);
             }
 
-            catch (Exception ex)
+            catch (Exception)
             {
                 ModelState.AddModelError("Erro", "Doctor cannot created");
                 return View(dto);
+            }
+    }
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                await _doctorService.DeleteDoctor(id);
+                await _doctorService.Save();
+                return RedirectToAction("Index");
+            }
+            catch (Exception)
+            {
+                return BadRequest("Something went wrong!");
             }
         }
     }

@@ -1972,4 +1972,3 @@ wwwroot\scss\bootstrap\scss\mixins\_utilities.scss
 wwwroot\scss\bootstrap\scss\mixins\_visually-hidden.scss
 wwwroot\scss\bootstrap\scss\utilities\_api.scss
 wwwroot\scss\bootstrap\scss\vendor\_rfs.scss
-wwwroot\UPLOAD\Doctors\WIN_20250107_10_52_38_Pro.jpg

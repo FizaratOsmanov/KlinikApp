@@ -32,7 +32,6 @@ namespace DATA
             })
                 .AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<AppDbContext>();
-
             services.ConfigureApplicationCookie(opt=>
             {
                 opt.LoginPath = "/Admin/Account/Login";

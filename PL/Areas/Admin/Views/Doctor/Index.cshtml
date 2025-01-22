@@ -17,10 +17,8 @@
 						<tr>
 							<th>Id</th>
 							<th>Image</th>
-
 							<th>Name</th>
-							<th>DepartmentTitle</th>
-							
+							<th>DepartmentId</th>							
 							<th class="text-center">Actions</th>
 						</tr>
 					</thead>
@@ -30,17 +28,17 @@
 							<tr>
 								<td>@b.Id</td>
 								<td class="text-center">
-									<img class="img-thumbnail rounded" width="50" src="~/Images/Doctors/@b.ImagePath" />
+									<img class="img-thumbnail rounded" width="50" src="/Images/Doctors/@b.ImagePath" />
 								</td>
 
 								<td>@b.Name</td>
-								<td>@b.DepartmentTitle</td>
+								<td>@b.DepartmentId</td>
 								
 								<td class="text-center">
 									<a class="btn btn-warning btn-sm mx-1">
 										<i  class="fas fa-edit"></i> Update
 									</a>
-									<a class="btn btn-danger btn-sm mx-1">
+									<a asp-action="Delete" class="btn btn-danger btn-sm mx-1">
 										<i class="fas fa-trash"></i> Delete
 									</a>
 								</td>
@@ -51,5 +49,5 @@
 			</div>
 		</div>
 	</div>
-
 </div>
+

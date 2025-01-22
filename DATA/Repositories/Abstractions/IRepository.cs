@@ -10,17 +10,12 @@ namespace DATA.Repositories.Abstractions
 {
     public  interface IRepository<T> where T : BaseEntity, new()
     {
-
-        DbSet<T> Table {  get; }
-        Task CreateAsync(T entity);
-        void DeleteAsync(T entity);
-        void UpdateAsync(T entity);
-
+        DbSet<T> Table { get; }
         Task<ICollection<T>> GetAllAsync(params string[] includes);
-
-        Task <T?> GetByIdAsync(int Id, params string[] includes);
-
-        Task<int> SaveAsync();
-
+        Task<T?> GetByIdAsync(int id, params string[] includes);
+        Task CreateAsync(T entity);
+        void Update(T entity);
+        void Delete(T entity);
+        Task<int> SaveChangesAsync();
     }
 }

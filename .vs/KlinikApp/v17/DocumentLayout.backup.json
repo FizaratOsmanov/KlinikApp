@@ -3,32 +3,120 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\controlers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\controlers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\services\\implementations\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\services\\implementations\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\filemanager\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\filemanager\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\doctordtos\\doctorputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\doctorputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\doctordtos\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\departmentdtos\\departmentputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\departmentputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\departmentdtos\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\departmentdtos\\departmentpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\departmentpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\configurationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\configurationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\doctordtos\\doctorpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\doctorpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,52 +127,12 @@
       "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\services\\implementations\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\services\\implementations\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\configurationsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\configurationsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\departmentdtos\\departmentputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\departmentputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\departmentdtos\\departmentpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\departmentpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\departmentdtos\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\doctordtos\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\doctordtos\\doctorputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\doctorputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\doctordtos\\doctorpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\doctorpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\filemanager\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\filemanager\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,28 +143,12 @@
       "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\configurationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\configurationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\services\\abstractions\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,16 +183,8 @@
       "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\profiles\\departmentprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,10 +193,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\bl\\profiles\\doctorprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\profiles\\doctorprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -187,14 +207,6 @@
       "RelativeMoniker": "D:0:0:{62AA5FA2-9461-4255-B4C3-6968A2FC2C81}|BL\\BL.csproj|solutionrelative:bl\\profiles\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7E80794-DF00-4724-BB0C-AFDEDDCA3656}|CORE\\CORE.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7E80794-DF00-4724-BB0C-AFDEDDCA3656}|CORE\\CORE.csproj|solutionrelative:core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -207,24 +219,8 @@
       "RelativeMoniker": "D:0:0:{F7E80794-DF00-4724-BB0C-AFDEDDCA3656}|CORE\\CORE.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\controlers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\controlers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5E64F29-084D-4F20-8514-35DD9A8BECF5}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\migrations\\20250121124704_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -233,6 +229,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\migrations\\20250121154602_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\migrations\\20250121154602_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\migrations\\20250122195940_changeadminparol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\migrations\\20250122195940_changeadminparol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|c:\\users\\lenovo\\desktop\\klinikapp\\data\\migrations\\20250122195516_changeadminparol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8B94A9-8DAA-4595-A569-69737185BC8F}|DATA\\DATA.csproj|solutionrelative:data\\migrations\\20250122195516_changeadminparol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -242,7 +246,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 711,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -266,59 +270,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:30:20.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:41:40.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:52:20.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T19:32:45.927Z",
+              "WhenOpened": "2025-01-21T15:09:36.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\appsettings.json",
               "RelativeDocumentMoniker": "PL\\appsettings.json",
@@ -331,137 +296,204 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:38:50.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMoAAAAAAAAAAADwv9oAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:39:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Program.cs",
-              "RelativeDocumentMoniker": "PL\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Program.cs*",
-              "RelativeToolTip": "PL\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:38:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Controlers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PL\\Controlers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Controlers\\HomeController.cs",
+              "RelativeToolTip": "PL\\Controlers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:39:26.144Z",
+              "WhenOpened": "2025-01-21T11:37:58.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T19:30:06.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\AccountService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\AccountService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\AccountService.cs*",
-              "RelativeToolTip": "BL\\Services\\Implementations\\AccountService.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:22:57.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DepartmentService.cs",
-              "RelativeToolTip": "BL\\Services\\Implementations\\DepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:23:25.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DoctorService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DoctorService.cs",
-              "RelativeToolTip": "BL\\Services\\Implementations\\DoctorService.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAUwD4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:23:08.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BL",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\BL.csproj",
-              "RelativeDocumentMoniker": "BL\\BL.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\BL.csproj",
-              "RelativeToolTip": "BL\\BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T21:36:08.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DATA",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\DATA.csproj",
-              "RelativeDocumentMoniker": "DATA\\DATA.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\DATA.csproj",
-              "RelativeToolTip": "DATA\\DATA.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T21:45:42.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvygAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvygAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T11:42:04.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConfigurationsBL.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\ConfigurationsBL.cs",
-              "RelativeDocumentMoniker": "BL\\ConfigurationsBL.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\ConfigurationsBL.cs*",
-              "RelativeToolTip": "BL\\ConfigurationsBL.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T15:09:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:44:34.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:52:20.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:30:20.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:41:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:30:06.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T19:38:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DoctorService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DoctorService.cs",
+              "RelativeToolTip": "BL\\Services\\Implementations\\DoctorService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:08.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\FileManager\\FileUpload.cs",
+              "RelativeDocumentMoniker": "BL\\FileManager\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\FileManager\\FileUpload.cs",
+              "RelativeToolTip": "BL\\FileManager\\FileUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:45:14.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DepartmentPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAcAAAASAAAAAAAAAA==",
+              "Title": "DoctorPutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwB0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:11:55.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:13:46.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "DoctorGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:13:32.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentPutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:12:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "DepartmentGetDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentGetDTO.cs",
               "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\DepartmentGetDTO.cs",
@@ -469,168 +501,59 @@
               "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\DepartmentGetDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:12:21.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DoctorGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\DoctorGetDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:13:32.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DoctorPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs*",
-              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\DoctorPutDTO.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwB0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:13:46.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:12:21.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DoctorPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBgAAABlAAAAAAAAAA==",
+              "Title": "DepartmentPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\DepartmentPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:12:43.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DepartmentPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\DepartmentPutDTO.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:12:34.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:11:55.218Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "FileUpload.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\FileManager\\FileUpload.cs",
-              "RelativeDocumentMoniker": "BL\\FileManager\\FileUpload.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\FileManager\\FileUpload.cs",
-              "RelativeToolTip": "BL\\FileManager\\FileUpload.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:45:14.395Z",
-              "EditorCaption": ""
+              "Title": "PL.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\PL.csproj",
+              "RelativeDocumentMoniker": "PL\\PL.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\PL.csproj",
+              "RelativeToolTip": "PL\\PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T16:47:40.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\LoginDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\UserDTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 57,
+              "Title": "20250122195940_changeAdminParol2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Migrations\\20250122195940_changeAdminParol2.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20250122195940_changeAdminParol2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Migrations\\20250122195940_changeAdminParol2.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20250122195940_changeAdminParol2.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:14:34.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T19:59:40.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 58,
+              "Title": "20250122195516_changeAdminParol.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Migrations\\20250122195516_changeAdminParol.cs",
+              "RelativeDocumentMoniker": "DATA\\Migrations\\20250122195516_changeAdminParol.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Migrations\\20250122195516_changeAdminParol.cs",
+              "RelativeToolTip": "DATA\\Migrations\\20250122195516_changeAdminParol.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:14:43.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T19:38:39.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T19:55:16.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T19:38:40.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ConfigurationsDATA.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\ConfigurationsDATA.cs",
-              "RelativeDocumentMoniker": "DATA\\ConfigurationsDATA.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\ConfigurationsDATA.cs",
-              "RelativeToolTip": "DATA\\ConfigurationsDATA.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:10:16.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T19:33:19.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T19:33:06.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
               "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
@@ -638,97 +561,71 @@
               "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T19:38:42.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T19:38:42.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IDoctorService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDoctorService.cs",
-              "RelativeToolTip": "BL\\Services\\Abstractions\\IDoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:23:36.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T11:41:46.403Z"
+              "WhenOpened": "2025-01-21T19:38:40.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T11:42:29.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "CORE\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Models\\Department.cs",
-              "RelativeToolTip": "CORE\\Models\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:53:18.466Z"
+              "WhenOpened": "2025-01-21T11:39:26.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T11:42:17.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "RelativeToolTip": "BL\\Services\\Abstractions\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DATA\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "DATA\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:23:50.866Z"
+              "WhenOpened": "2025-01-21T12:00:00.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IAccountService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IAccountService.cs",
-              "RelativeToolTip": "BL\\Services\\Abstractions\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "ConfigurationsDATA.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\ConfigurationsDATA.cs",
+              "RelativeDocumentMoniker": "DATA\\ConfigurationsDATA.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\ConfigurationsDATA.cs",
+              "RelativeToolTip": "DATA\\ConfigurationsDATA.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:24:03.593Z"
+              "WhenOpened": "2025-01-21T21:10:16.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 26,
+              "Title": "DoctorPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\DoctorPostDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:12:43.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "BaseException.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Exceptions\\BaseException.cs",
               "RelativeDocumentMoniker": "BL\\Exceptions\\BaseException.cs",
@@ -740,7 +637,199 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T19:32:45.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "BL\\Services\\Implementations\\AccountService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:22:57.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "BL\\Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:25.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BL.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T21:36:08.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DATA.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\DATA.csproj",
+              "RelativeDocumentMoniker": "DATA\\DATA.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\DATA.csproj",
+              "RelativeToolTip": "DATA\\DATA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T21:45:42.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\LoginDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\UserDTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:14:34.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:14:43.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T19:33:19.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T19:33:06.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDoctorService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:36.173Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:41:46.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:42:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Models\\Department.cs",
+              "RelativeToolTip": "CORE\\Models\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:53:18.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:42:17.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:50.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:24:03.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "DATA\\Repositories\\Implementations\\Repository.cs",
@@ -752,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Repositories\\Abstractions\\IRepository.cs",
               "RelativeDocumentMoniker": "DATA\\Repositories\\Abstractions\\IRepository.cs",
@@ -764,20 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "PL.csproj",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\PL.csproj",
-              "RelativeDocumentMoniker": "PL\\PL.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\PL.csproj",
-              "RelativeToolTip": "PL\\PL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T16:47:40.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "DepartmentProfiles.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Profiles\\DepartmentProfiles.cs",
               "RelativeDocumentMoniker": "BL\\Profiles\\DepartmentProfiles.cs",
@@ -789,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "DoctorProfiles.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Profiles\\DoctorProfiles.cs",
               "RelativeDocumentMoniker": "BL\\Profiles\\DoctorProfiles.cs",
@@ -801,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "20250121154602_Initial2.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Migrations\\20250121154602_Initial2.cs",
               "RelativeDocumentMoniker": "DATA\\Migrations\\20250121154602_Initial2.cs",
@@ -813,19 +889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:09:20.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "DoctorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Configurations\\DoctorConfiguration.cs",
               "RelativeDocumentMoniker": "DATA\\Configurations\\DoctorConfiguration.cs",
@@ -837,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "DATA\\Configurations\\DepartmentConfiguration.cs",
@@ -849,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "UserProfiles.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\BL\\Profiles\\UserProfiles.cs",
               "RelativeDocumentMoniker": "BL\\Profiles\\UserProfiles.cs",
@@ -861,31 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DATA\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "DATA\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAnwA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:00:00.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:09:36.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "CORE\\Models\\Doctor.cs",
@@ -897,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "20250121124704_Initial.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\DATA\\Migrations\\20250121124704_Initial.cs",
               "RelativeDocumentMoniker": "DATA\\Migrations\\20250121124704_Initial.cs",
@@ -909,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "RoleEnum.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Enums\\RoleEnum.cs",
               "RelativeDocumentMoniker": "CORE\\Enums\\RoleEnum.cs",
@@ -921,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\CORE\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CORE\\Models\\BaseEntity.cs",
@@ -933,43 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PL\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEoBAAAAAAAAAIBJwF8BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T11:38:06.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAMoAAAAAAAAAAADwv9oAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T11:39:01.653Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 54,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Controlers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PL\\Controlers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Controlers\\HomeController.cs",
-              "RelativeToolTip": "PL\\Controlers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:37:58.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PL\\Views\\_ViewStart.cshtml",
@@ -978,18 +982,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T11:38:39.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\KlinikApp\\PL\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PL\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T11:38:50.017Z"
             }
           ]
         },
